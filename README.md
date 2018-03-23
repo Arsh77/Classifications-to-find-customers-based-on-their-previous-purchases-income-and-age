@@ -1,5 +1,5 @@
 # Classifications
-Applied various types of classifications using social_network_ads data to classify different types of buyers based on their purchase record and seperating out the group of customer who are most interested in purchasing product.
+Applied various types of classifications using social_network_ads data to classify different types of buyers based on their purchase record and separating out the group of customer who are most interested in purchasing product.
 
 Types of classification applied:
 
